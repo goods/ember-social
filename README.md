@@ -211,33 +211,32 @@ This README outlines the details of collaborating on this Ember addon.
 
 ### Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+- `git clone` this repository
+- `npm install`
 
 ### Running Dummy App
 
 The dummy app demonstrates and explains usage quite well.
 
-  * `ember server`
-  * Visit your app at http://localhost:4200.
+- `ember server`
+- Visit your app at http://localhost:4200.
 
 To use in your app, follow the instructions for using ember-cli addons at ember-cli.com.
 
 ### Running Tests
 
-* `ember test`
-* `ember test --server`
+- `ember test`
+- `ember test --server`
 
 ### Building
 
-* `ember build`
+## License
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
 
 ### TODO
 
-* Implement click/share tracking for `{{facebook-like}}`
+- Implement click/share tracking for `{{facebook-like}}`
 
 ### Contributors
 
